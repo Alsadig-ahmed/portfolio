@@ -1,17 +1,15 @@
 <script>
-  import Contact from "./components/Contact/index.svelte";
-  import Footer from "./components/Footer/index.svelte";
-import Good from "./components/Good/Good.svelte";
-  import Header from "./components/Header/index.svelte";
-  import Manifesto from "./components/Manifesto/index.svelte";
-  import Projects from "./components/projects/index.svelte";
-  import Skills from "./components/Skills/index.svelte";
+  import Contact from "./components/Contact/Contact.svelte";
+  import Footer from "./components/Footer/Footer.svelte";
+  import Header from "./components/Header/Header.svelte";
+  import Manifesto from "./components/Manifesto/Manifesto.svelte";
+  import Projects from "./components/projects/Projects.svelte";
+  import Skills from "./components/Skills/Skills.svelte";
   import WorkHistory from "./components/WorkHistory.svelte";
 </script>
 
 <Header />
 <main>
-  <Good /> 
   <Skills />
   <Projects />
   <Manifesto />
