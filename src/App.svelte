@@ -1,6 +1,7 @@
 <script>
   import Contact from "./components/Contact/index.svelte";
   import Footer from "./components/Footer/index.svelte";
+import Good from "./components/Good/Good.svelte";
   import Header from "./components/Header/index.svelte";
   import Manifesto from "./components/Manifesto/index.svelte";
   import Projects from "./components/projects/index.svelte";
@@ -10,6 +11,7 @@
 
 <Header />
 <main>
+  <Good /> 
   <Skills />
   <Projects />
   <Manifesto />
