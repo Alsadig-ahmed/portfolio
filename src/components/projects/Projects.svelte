@@ -1,4 +1,4 @@
-<!-- <section class="projects">
+<section class="projects">
   <h2>my project</h2>
   <div class="flex">
     <div>
@@ -75,4 +75,4 @@
       width: 95%;
     }
   }
-</style> -->
+</style>
