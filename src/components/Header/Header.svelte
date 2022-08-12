@@ -9,7 +9,7 @@
           </p>
         </blockquote>
       </span>
-      <img src="/DSC_0614.JPG" alt="Alsadig Ahmed" />
+      <img src="/my-image.png" alt="Alsadig Ahmed" />
     </div>
   </header>
   <style>
